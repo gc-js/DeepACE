@@ -1,0 +1,64 @@
+HEADER                                            18-OCT-22                     
+TITLE     ESMFOLD V1 PREDICTION FOR INPUT
+REMARK   1                                                                      
+REMARK   1 REFERENCE 1                                                          
+REMARK   1  AUTH   ZEMING LIN, HALIL AKIN, ROSHAN RAO, BRIAN HIE, ZHONGKAI ZHU,
+REMARK   1  AUTH 2 WENTING LU, NIKITA SMETANIN, ROBERT VERKUIL, ORI KABELI,
+REMARK   1  AUTH 3 YANIV SHMUELI, ALLAN DOS SANTOS COSTA,
+REMARK   1  AUTH 4 MARYAM FAZEL-ZARANDI, TOM SERCU, SALVATORE CANDIDO,
+REMARK   1  AUTH 5 ALEXANDER RIVES
+REMARK   1  TITL   EVOLUTIONARY-SCALE PREDICTION OF ATOMIC LEVEL PROTEIN
+REMARK   1  TITL 2 STRUCTURE WITH A LANGUAGE MODEL
+REMARK   1  REF                                                                 
+REMARK   1  REFN                                                                
+REMARK   1  PMID                                                                
+REMARK   1  DOI    10.1101/2022.07.20.500902                                    
+REMARK   1                                                                      
+REMARK   1 LICENSE AND DISCLAIMERS                
+REMARK   1 ESM METAGENOMIC ATLAS DATA IS AVAILABLE UNDER
+REMARK   1 A CC-BY-4.0 LICENSE FOR ACADEMIC AND COMMERCIAL USE.
+REMARK   1 COPYRIGHT (C) META PLATFORMS, INC. ALL RIGHTS RESERVED.
+REMARK   1 USE OF THE ESM METAGENOMIC ATLAS DATA IS SUBJECT
+REMARK   1 TO THE META OPEN SOURCE TERMS OF USE AND PRIVACY POLICY.
+ATOM      1  N   TRP A   1       2.442  12.051  -7.312  1.00  0.53           N  
+ATOM      2  CA  TRP A   1       2.000  13.156  -8.156  1.00  0.54           C  
+ATOM      3  C   TRP A   1       0.972  14.017  -7.431  1.00  0.53           C  
+ATOM      4  CB  TRP A   1       1.410  12.629  -9.467  1.00  0.51           C  
+ATOM      5  O   TRP A   1      -0.089  13.528  -7.035  1.00  0.51           O  
+ATOM      6  CG  TRP A   1       1.597  13.552 -10.634  1.00  0.52           C  
+ATOM      7  CD1 TRP A   1       2.778  14.053 -11.106  1.00  0.52           C  
+ATOM      8  CD2 TRP A   1       0.569  14.088 -11.472  1.00  0.52           C  
+ATOM      9  CE2 TRP A   1       1.200  14.906 -12.435  1.00  0.51           C  
+ATOM     10  CE3 TRP A   1      -0.825  13.954 -11.504  1.00  0.63           C  
+ATOM     11  NE1 TRP A   1       2.546  14.868 -12.190  1.00  0.61           N  
+ATOM     12  CH2 TRP A   1      -0.881  15.442 -13.428  1.00  0.58           C  
+ATOM     13  CZ2 TRP A   1       0.482  15.590 -13.420  1.00  0.60           C  
+ATOM     14  CZ3 TRP A   1      -1.538  14.635 -12.484  1.00  0.56           C  
+ATOM     15  N   HIS A   2       1.068  15.511  -7.169  1.00  0.52           N  
+ATOM     16  CA  HIS A   2       0.437  15.887  -5.909  1.00  0.53           C  
+ATOM     17  C   HIS A   2      -1.076  15.710  -5.976  1.00  0.53           C  
+ATOM     18  CB  HIS A   2       0.780  17.334  -5.548  1.00  0.52           C  
+ATOM     19  O   HIS A   2      -1.695  16.007  -7.001  1.00  0.54           O  
+ATOM     20  CG  HIS A   2       0.204  18.341  -6.492  1.00  0.54           C  
+ATOM     21  CD2 HIS A   2      -0.882  19.142  -6.382  1.00  0.54           C  
+ATOM     22  ND1 HIS A   2       0.759  18.609  -7.724  1.00  0.57           N  
+ATOM     23  CE1 HIS A   2       0.038  19.535  -8.333  1.00  0.53           C  
+ATOM     24  NE2 HIS A   2      -0.964  19.875  -7.540  1.00  0.55           N  
+ATOM     25  N   PRO A   3      -1.632  14.626  -5.508  1.00  0.55           N  
+ATOM     26  CA  PRO A   3      -3.094  14.587  -5.436  1.00  0.54           C  
+ATOM     27  C   PRO A   3      -3.717  15.975  -5.310  1.00  0.54           C  
+ATOM     28  CB  PRO A   3      -3.363  13.752  -4.182  1.00  0.55           C  
+ATOM     29  O   PRO A   3      -3.538  16.645  -4.290  1.00  0.54           O  
+ATOM     30  CG  PRO A   3      -2.056  13.096  -3.872  1.00  0.56           C  
+ATOM     31  CD  PRO A   3      -0.950  13.964  -4.399  1.00  0.57           C  
+ATOM     32  N   ARG A   4      -2.523  19.228  -4.389  1.00  0.58           N  
+ATOM     33  CA  ARG A   4      -3.797  19.934  -4.295  1.00  0.57           C  
+ATOM     34  C   ARG A   4      -4.967  18.991  -4.556  1.00  0.57           C  
+ATOM     35  CB  ARG A   4      -3.838  21.105  -5.280  1.00  0.58           C  
+ATOM     36  O   ARG A   4      -6.089  19.250  -4.117  1.00  0.56           O  
+ATOM     37  CG  ARG A   4      -2.916  22.255  -4.907  1.00  0.61           C  
+ATOM     38  CD  ARG A   4      -2.978  23.381  -5.930  1.00  0.59           C  
+ATOM     39  NE  ARG A   4      -2.245  23.044  -7.147  1.00  0.58           N  
+ATOM     40  NH1 ARG A   4      -2.966  24.888  -8.338  1.00  0.54           N  
+ATOM     41  NH2 ARG A   4      -1.553  23.369  -9.313  1.00  0.50           N  
+ATOM     42  CZ  ARG A   4      -2.256  23.768  -8.264  1.00  0.59           C  
